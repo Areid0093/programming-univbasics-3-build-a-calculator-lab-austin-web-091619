@@ -34,8 +34,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  num1 = 10
-  num2 = 5
-  subtraction = (num1 - num2)
-  subtraction
+  square_root = Math.sqrt(81)
+  square_root
 end
