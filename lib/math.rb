@@ -1,7 +1,8 @@
 def addition(num1, num2)
   num1 = 5
   num2 = 9
-  addition = (num1 + num2).to_s
+  addition = (num1 + num2)
+  addition
 end
 
 def subtraction(num1, num2)
