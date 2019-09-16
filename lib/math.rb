@@ -20,14 +20,17 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  num1 = 10
-  num2 = 5
+  num1 = 4
+  num2 = 30
   multiplication = (num1 * num2)
   multiplication
 end
 
 def modulo(num1, num2)
-
+  num1 = 10
+  num2 = 5
+  modulo = (num1 % num2)
+  modulo
 end
 
 def square_root(num)
